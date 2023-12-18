@@ -1,0 +1,25 @@
+{
+    "records":[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 25,
+        "isStudent": false,
+        "grades": [80,90,75]
+    },
+    {
+        "id": 2,
+        "name": "Pedro Pascual",
+        "age": 32,
+        "isStudent": true,
+        "grades": [90,90,100]  
+    },
+    {
+        "id": 3,
+        "name": "Angel Aguilar",
+        "age": 39,
+        "isStudent": true,
+        "grades": [85,92,100]   
+    }
+]
+}
